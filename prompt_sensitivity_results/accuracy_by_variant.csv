@@ -1,0 +1,10 @@
+variant,accuracy
+baseline,0.8583333333333333
+fewshot_reversed,0.85
+fewshot_shuffle_1,0.8666666666666667
+fewshot_shuffle_2,0.85
+instruction_after,0.8333333333333334
+phrasing_the_answer_is,0.8666666666666667
+phrasing_response,0.875
+options_reversed,0.8583333333333333
+options_shuffled,0.825

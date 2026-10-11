@@ -1,0 +1,21 @@
+variant,question_idx,question,true_correct_content_idx,baseline_pred_content,variant_pred_content,baseline_correct,variant_correct
+options_reversed,4,Which of the following is the best example of an attribute that is culturally-based rather than primarily psychologically-based?,1,A,B,False,True
+options_reversed,15,The incidence of schizophrenia in the population is closest to,1,B,C,True,False
+options_reversed,18,Which of the following is an example of an implicit memory?,1,A,D,False,False
+options_reversed,19,"When the class listened to a list of words, half the group was directed to listen for sounds while the other half was asked to gauge the emo",0,A,D,True,False
+options_reversed,24,Mechanical energy is transduced to electrochemical energy by,2,B,D,False,False
+options_reversed,60,Neural transmission is often described as an electrochemical process. Which of the following is most directly involved in the electrical asp,3,B,D,False,True
+options_reversed,63,Which of the following is an example of a result of operant conditioning?,3,D,C,True,False
+options_reversed,70,"Lupe has been dating Craig for a few months. She's attracted to him and has fun with him, but she can't stand his friends or his family. Lup",1,D,B,False,True
+options_reversed,100,"According to Abraham Maslow, esteem needs must at least be partially met before one is prompted to satisfy",2,A,D,False,False
+options_shuffled,10,In classical conditioning the learner learns to associate the unconditioned stimulus with,1,B,A,True,False
+options_shuffled,15,The incidence of schizophrenia in the population is closest to,1,B,C,True,False
+options_shuffled,18,Which of the following is an example of an implicit memory?,1,A,D,False,False
+options_shuffled,19,"When the class listened to a list of words, half the group was directed to listen for sounds while the other half was asked to gauge the emo",0,A,C,True,False
+options_shuffled,24,Mechanical energy is transduced to electrochemical energy by,2,B,C,False,True
+options_shuffled,48,"According to Erikson, those who look back at the end of their lives with regrets and the feeling that their lives have lacked fulfillment ev",2,C,D,True,False
+options_shuffled,63,Which of the following is an example of a result of operant conditioning?,3,D,C,True,False
+options_shuffled,70,"Lupe has been dating Craig for a few months. She's attracted to him and has fun with him, but she can't stand his friends or his family. Lup",1,D,B,False,True
+options_shuffled,79,"A group of participants in a sleep study are to be deprived of sleep for four days. After their second sleepless night, participants may beg",3,D,C,True,False
+options_shuffled,100,"According to Abraham Maslow, esteem needs must at least be partially met before one is prompted to satisfy",2,A,C,False,True
+options_shuffled,109,"At the outset of a study on eating habits, a researcher asks participants a variety of questions, including whether they typically eat break",0,A,D,True,False
